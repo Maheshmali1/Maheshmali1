@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maheshmali1
 - 👀 I’m interested in coding and embedded electronics.
 - 🌱 I have learned c, c++ and python languages also I am pursuing my B.Tech degree in Electronics and Telecommunication.
-- 💞️ I’m looking to collaborate my knowledge with embedded industries.
+- 💞️ I’m looking to collaborate my knowledge with software industries.
 - 📫 How to reach me : You can reach me on my linked in profile.
 
 <!---
