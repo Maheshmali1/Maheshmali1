@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshmali1&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmali1" /> </p>
 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **React and Frontend**
 
-- 💬 Ask me about : **Data structures and Algorithms,C++, Python, Javascript, API testing**
+- 💬 Ask me about : **Data structures and Algorithms,C++,Javascript, TypeScript, Node.js and Express.js**
 
 - 📫 How to reach me : **mahimali15082001@gmail.com**
 
-- 📄 Know about my experiences :[https://bit.ly/3G1Ub0q](https://bit.ly/40Lb6fs)
+- 📄 Know about my experiences :[Resume Link]([https://bit.ly/40Lb6fs](https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing))
 
 - ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
 
