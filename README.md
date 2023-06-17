@@ -6,26 +6,7 @@
 <h3 align="center">A passionate Full Stack Developer from Pune, India</h3>
 <hr>
 
-<div style="display: flex; flex-direction: row-reverse; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; margin:1%">
-    <img alt="Coding" style="max-width: 80%;" src="./animations/programmer.gif">
-  </div>
-  <div style="flex: 1;margin:1% 3%">
-    <ul>
-      <li>🌱 I’m currently learning <strong>React</strong></li>
-      <li>💬 Ask me about: <strong>Data structures and Algorithms, C++, JavaScript, TypeScript, Node.js, and Express.js</strong></li>
-      <li>📫 How to reach me: <strong>mahimali15082001@gmail.com</strong></li>
-      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing" target="_blank">Resume Link</a></li>
-      <li>👯 I’m looking to collaborate on Open source MERN Projects.</li>
-      <li>⚡ Fun fact: <strong>It’s not a bug — it’s an undocumented feature.</strong></li>
-    </ul>
-  </div>
-  
-</div>
-
-
-
-<!-- <center><img alt="Coding" align="right" width= 40%  src="./animations/programmer.gif" ></center>
+<center><img alt="Coding" align="right" width= 40%  src="./animations/programmer.gif" ></center>
 
 
 
@@ -39,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on Open source MERN Projects. 
 
-- ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.** -->
+- ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
 <br>
 <hr>
 <h2> My GitHub Stats</h2>
@@ -77,9 +58,9 @@
 <hr>
 <h2 align="center"> Connect with me </h2>
 <br>
-<table style="width: 100%;">
+<table style="width: 100%;" align="center">
     <tr align="center">
-    <td>
+    <td align="center">
 <a style="display: inline-block; margin: 1%;" href="https://twitter.com/Mahesh_Mali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahesh_Mali2" height="30" width="40" /></a>
 <a style="display: inline-block; margin: 1%;"  href="https://www.linkedin.com/in/mahesh-mali-bbbba9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-mali-bbbba9212/" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://auth.geeksforgeeks.org/user/msquare1508" target="blank"><img align="center" src="./images/geeksforgeeks-svgrepo-com.svg" alt="msquare1508" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://leetcode.com/marcellus_MM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marcellus_MM/" height="30" width="40" /></a>
 <a style="display: inline-block; margin: 1%;"  href="https://www.hackerrank.com/mahimali15082001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://www.hackerearth.com/@mahimali15082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="discordapp.com/users/Mahesh_Mali#2527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahesh_Mali#2527" height="30" width="40" /></a>
@@ -91,8 +72,8 @@
 
 <h2 align="center"> Skills </h2>
 <p align="center" style="width: 100%;">
-  <table style="width: 100%;">
-    <tr>
+  <table style="width: 100%;" align="center">
+    <tr align="center">
       <td align="center"><h3>Programming Languages</h3>
       <p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 2%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a style="display: inline-block; margin: 2%;" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a style="display: inline-block; margin: 2%;" href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="python" width="80" height="40"/> </a> </p><a style="display: inline-block; margin: 2%;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.php.net" target="_blank" rel="noreferrer"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
