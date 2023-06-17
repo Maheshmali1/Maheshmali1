@@ -14,7 +14,7 @@
 
 - 📫 How to reach me : **mahimali15082001@gmail.com**
 
-- 📄 Know about my experiences :[Resume Link]([https://bit.ly/40Lb6fs](https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing))
+- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing)
 
 - ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
 
