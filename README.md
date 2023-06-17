@@ -1,14 +1,35 @@
-![MasterHead](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)
+<div style="display: flex; justify-content: center;">
+  <img src="./images/image.webp" style="width: 98%;" alt="MasterHead">
+</div>
+<br>
 <h1 align="center">Hi 👋, I'm Mahesh Mali</h1>
-<h3 align="center">A passionate Full Stack Developer from COEP, India</h3>
+<h3 align="center">A passionate Full Stack Developer from Pune, India</h3>
+<hr>
+
+<div style="display: flex; flex-direction: row-reverse; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; margin:1%">
+    <img alt="Coding" style="max-width: 80%;" src="./animations/programmer.gif">
+  </div>
+  <div style="flex: 1;margin:1% 3%">
+    <ul>
+      <li>🌱 I’m currently learning <strong>React</strong></li>
+      <li>💬 Ask me about: <strong>Data structures and Algorithms, C++, JavaScript, TypeScript, Node.js, and Express.js</strong></li>
+      <li>📫 How to reach me: <strong>mahimali15082001@gmail.com</strong></li>
+      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing" target="_blank">Resume Link</a></li>
+      <li>👯 I’m looking to collaborate on Open source MERN Projects.</li>
+      <li>⚡ Fun fact: <strong>It’s not a bug — it’s an undocumented feature.</strong></li>
+    </ul>
+  </div>
+  
+</div>
 
 
-<center><img alt="Coding" align="right" width= 30%  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" ></center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshmali1&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmali1" /> </p>
+<!-- <center><img alt="Coding" align="right" width= 40%  src="./animations/programmer.gif" ></center>
 
 
-- 🌱 I’m currently learning **React and Frontend**
+
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about : **Data structures and Algorithms,C++,Javascript, TypeScript, Node.js and Express.js**
 
@@ -16,21 +37,108 @@
 
 - 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1rFGg3U1S1K_BwH4IXzU0fTugbONRvwA5/view?usp=sharing)
 
-- ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
+- 👯 I’m looking to collaborate on Open source MERN Projects. 
 
+- ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.** -->
+<br>
+<hr>
+<h2> My GitHub Stats</h2>
+<table align="center" style="width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Maheshmali1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshmali1&theme=algolia&hide_border=true" />
+    </td>                           
+  </tr>
+</table>
+<hr>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshmali1&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<hr>
+<table align="center" >
+  <tr >
+    <td align="center">
+  <img src="https://stats.quine.sh/Maheshmali1/github?theme=dark" style="width: 60%;" />
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmali1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maheshmali1's Top Languages" />
+</td>
 
+  </tr>
+</table>
+ 
+<hr>
+<h2 align="center"> Connect with me </h2>
+<br>
+<table style="width: 100%;">
+    <tr align="center">
+    <td>
+<a style="display: inline-block; margin: 1%;" href="https://twitter.com/Mahesh_Mali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahesh_Mali2" height="30" width="40" /></a>
+<a style="display: inline-block; margin: 1%;"  href="https://www.linkedin.com/in/mahesh-mali-bbbba9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-mali-bbbba9212/" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://auth.geeksforgeeks.org/user/msquare1508" target="blank"><img align="center" src="./images/geeksforgeeks-svgrepo-com.svg" alt="msquare1508" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://leetcode.com/marcellus_MM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marcellus_MM/" height="30" width="40" /></a>
+<a style="display: inline-block; margin: 1%;"  href="https://www.hackerrank.com/mahimali15082001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="https://www.hackerearth.com/@mahimali15082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 1%;"  href="discordapp.com/users/Mahesh_Mali#2527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahesh_Mali#2527" height="30" width="40" /></a>
+</td>
+    </tr>
+</table>
+<br>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahesh-mali-bbbba9212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-mali-bbbba9212" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marcellus_mm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/marcellus_mm/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/msquare1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/msquare1508" height="30" width="40" /></a>
+<h2 align="center"> Skills </h2>
+<p align="center" style="width: 100%;">
+  <table style="width: 100%;">
+    <tr>
+      <td align="center"><h3>Programming Languages</h3>
+      <p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 2%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a style="display: inline-block; margin: 2%;" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a style="display: inline-block; margin: 2%;" href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="python" width="80" height="40"/> </a> </p><a style="display: inline-block; margin: 2%;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.php.net" target="_blank" rel="noreferrer"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+      </td>
+      <td align="center">
+        <h3>Front-End Development</h3>
+  <p align="left">  <a style="display: inline-block; margin: 2%;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;"href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
+      </td>
+      <td align="center">
+        <h3>Back-End Development</h3></a><a style="display: inline-block; margin: 2%;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./images/Expressjs.png" alt="express.js" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="./images/swagger_logo.svg" alt="swagger UI" width="80" height="40"/> </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Databases: </h3>
+  <p><a style="display: inline-block; margin: 2%;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+      </td>
+      <td align="center">
+        <h3>Software</h3>
+  <p> <a style="display: inline-block; margin: 3%;" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./images/vsCode.png" alt="VScode" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./images/postman-icon.svg" alt="postman" width="40" height="40"/> </a><a style="display: inline-block; margin: 2%;"href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
+      </td>
+      <td align="center">
+        <h3>Others:</h3>
+  <p > <a style="display: inline-block; margin: 2%;" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+      </td>
+    </tr>
+   </table>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr>
+<!-- GitHub Profile Trophy -->
+<h2 align="center">GitHub Profile Trophies</h2>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheshmali1&theme=algolia&column=4&margin-w=15&margin-h=15" alt="maheshmali1's Trophies" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshmali1" alt="maheshmali1" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmali1&show_icons=true&locale=en&layout=compact" alt="maheshmali1" /></p>
+<hr>
+ <h2 align="center"> Thank you for visiting my profile </h2>     
+ <br>                                                                                                                 
+ <table align="center">
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/Maheshmali1/count.svg"></td>                                                                     
+        </tr>                                                                                             
+ </table>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmali1&show_icons=true&locale=en" alt="maheshmali1" /></p>
