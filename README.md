@@ -16,7 +16,7 @@
 
 - 📫 How to reach me : **mahimali15082001@gmail.com**
 
-- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1bVLo51XnTxaog9TLcUMLzhv1MOT76ybO/view?usp=sharing)
+- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1gRxXEiWKvoHWv2iOJx6vgv2Eh7aXJ4UW/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on Open source MERN Projects. 
 
