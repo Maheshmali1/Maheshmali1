@@ -8,53 +8,49 @@
 
 <center><img alt="Coding" align="right" width= 40%  src="./animations/programmer.gif" ></center>
 
-
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about : **Data structures and Algorithms,C++,Javascript, TypeScript, Node.js and Express.js**
+- 💬 Ask me about : **Data structures and Algorithms,TypeScript, Node.js and NestJS**
 
 - 📫 How to reach me : **mahimali15082001@gmail.com**
 
-- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1gRxXEiWKvoHWv2iOJx6vgv2Eh7aXJ4UW/view?usp=sharing)
+- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1Z96B8kWEJr1goYgRm_a8Ff3vCXoMl1-8/view?usp=sharing)
 
-- 👯 I’m looking to collaborate on Open source MERN Projects. 
+- 👯 I’m looking to collaborate on Open source MEAN Projects.
 
 - ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
-<br>
-<hr>
-<h2> My GitHub Stats</h2>
-<table align="center" style="width: 100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Maheshmali1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshmali1&theme=algolia&hide_border=true" />
-    </td>                           
-  </tr>
-</table>
-<hr>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshmali1&theme=react-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-<hr>
-<table align="center" >
-  <tr >
-    <td align="center">
-  <img src="https://stats.quine.sh/Maheshmali1/github?theme=dark" style="width: 60%;" />
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmali1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maheshmali1's Top Languages" />
-</td>
+  <br>
+  <hr>
+  <h2> My GitHub Stats</h2>
+  <table align="center" style="width: 100%;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Maheshmali1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshmali1&theme=algolia&hide_border=true" />
+      </td>                           
+    </tr>
+  </table>
+  <hr>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshmali1&theme=react-dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <table align="center" >
+    <tr >
+      <td align="center">
+    <img src="https://stats.quine.sh/Maheshmali1/github?theme=dark" style="width: 60%;" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmali1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maheshmali1's Top Languages" />
+  </td>
 
-  </tr>
-</table>
- 
+    </tr>
+  </table>
+
 <hr>
 <h2 align="center"> Connect with me </h2>
 <br>
@@ -80,17 +76,17 @@
       </td>
       <td align="center">
         <h3>Front-End Development</h3>
-  <p align="left">  <a style="display: inline-block; margin: 2%;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;"href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
+  <p align="left">  <a style="display: inline-block; margin: 2%;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;"href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="react" width="40" height="40"/> </p>
       </td>
       <td align="center">
-        <h3>Back-End Development</h3></a><a style="display: inline-block; margin: 2%;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="./images/Expressjs.png" alt="express.js" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="./images/swagger_logo.svg" alt="swagger UI" width="80" height="40"/> </a>
+        <h3>Back-End Development</h3></a><a style="display: inline-block; margin: 2%;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original-wordmark.svg" alt="swagger UI" width="80" height="40"/> </a>
         </p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <h3>Databases: </h3>
-  <p><a style="display: inline-block; margin: 2%;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+  <p><a style="display: inline-block; margin: 2%;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a  style="display: inline-block; margin: 2%;" href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a></p>
       </td>
       <td align="center">
         <h3>Software</h3>
@@ -98,7 +94,8 @@
       </td>
       <td align="center">
         <h3>Others:</h3>
-  <p > <a style="display: inline-block; margin: 2%;" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  <p > <a style="display: inline-block; margin: 2%;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a style="display: inline-block; margin: 2%;" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
       </td>
     </tr>
    </table>
@@ -122,4 +119,3 @@
         </tr>                                                                                             
  </table>
 <hr>
-
