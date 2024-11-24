@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **mahimali15082001@gmail.com**
 
-- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1Z96B8kWEJr1goYgRm_a8Ff3vCXoMl1-8/view?usp=sharing)
+- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1cfMSD7vdNWF5oHSn8axirNMuMbW7dC6Y/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on Open source MEAN Projects.
 
