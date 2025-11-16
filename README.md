@@ -10,10 +10,10 @@
       <span style="padding: 7px 10px; background: rgba(14,165,233,0.12); border: 1px solid rgba(14,165,233,0.35); border-radius: 999px; font-size: 12px;">Real-time Systems</span>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
-      <a href="https://drive.google.com/file/d/1cfMSD7vdNWF5oHSn8axirNMuMbW7dC6Y/view?usp=sharing" style="text-decoration: none; padding: 10px 14px; border-radius: 12px; background: linear-gradient(120deg, #6366f1, #a855f7); color: white; font-weight: 700; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 12px 30px rgba(99,102,241,0.36); display: inline-flex; align-items: center; gap: 7px;">
+      <a href="https://drive.google.com/file/d/1nnNq_Cz-xeXjfwgcmWUMhJ5RFPL_oQqw/view?usp=drive_link" style="text-decoration: none; padding: 10px 14px; border-radius: 12px; background: linear-gradient(120deg, #6366f1, #a855f7); color: white; font-weight: 700; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 12px 30px rgba(99,102,241,0.36); display: inline-flex; align-items: center; gap: 7px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="14" alt="Resume"> View Resume
       </a>
-      <a href="https://www.linkedin.com/in/mahesh-mali-bbbba9212/" style="text-decoration: none; padding: 10px 14px; border-radius: 12px; background: rgba(255,255,255,0.06); color: #cbd5e1; font-weight: 700; border: 1px solid rgba(255,255,255,0.08); display: inline-flex; align-items: center; gap: 7px;">
+      <a href="https://in.linkedin.com/in/mahesh-mali-ai-sde" style="text-decoration: none; padding: 10px 14px; border-radius: 12px; background: rgba(255,255,255,0.06); color: #cbd5e1; font-weight: 700; border: 1px solid rgba(255,255,255,0.08); display: inline-flex; align-items: center; gap: 7px;">
         <img src="https://skillicons.dev/icons?i=linkedin" width="14" alt=""> Connect
       </a>
       <a href="https://twitter.com/Mahesh_Mali2" style="text-decoration: none; padding: 10px 14px; border-radius: 12px; background: rgba(255,255,255,0.06); color: #cbd5e1; font-weight: 700; border: 1px solid rgba(255,255,255,0.08); display: inline-flex; align-items: center; gap: 7px;">
@@ -246,7 +246,7 @@
     </div>
     <div style="padding: 16px; border-radius: 14px; background: #0f172a; border: 1px solid #1f2937;">
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-        <a href="https://www.linkedin.com/in/mahesh-mali-bbbba9212/" style="padding: 10px 12px; border-radius: 10px; background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+        <a href="https://in.linkedin.com/in/mahesh-mali-ai-sde" style="padding: 10px 12px; border-radius: 10px; background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
           <img src="https://skillicons.dev/icons?i=linkedin" width="16" alt="LinkedIn"> LinkedIn
         </a>
         <a href="https://twitter.com/Mahesh_Mali2" style="padding: 10px 12px; border-radius: 10px; background: rgba(56,189,248,0.12); border: 1px solid rgba(56,189,248,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
@@ -261,7 +261,7 @@
         <a href="https://auth.geeksforgeeks.org/user/msquare1508" style="padding: 10px 12px; border-radius: 10px; background: rgba(16,185,129,0.12); border: 1px solid rgba(16,185,129,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="16" alt="GeeksforGeeks"> GeeksforGeeks
         </a>
-        <a href="https://drive.google.com/file/d/1cfMSD7vdNWF5oHSn8axirNMuMbW7dC6Y/view?usp=sharing" style="padding: 10px 12px; border-radius: 10px; background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+        <a href="https://drive.google.com/file/d/1nnNq_Cz-xeXjfwgcmWUMhJ5RFPL_oQqw/view?usp=drive_link" style="padding: 10px 12px; border-radius: 10px; background: rgba(99,102,241,0.12); border: 1px solid rgba(99,102,241,0.25); color: #cbd5e1; text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width="16" alt="Resume"> Resume
         </a>
       </div>
