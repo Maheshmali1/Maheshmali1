@@ -1,121 +1,143 @@
-<div style="display: flex; justify-content: center;">
-  <img src="./images/image.webp" style="width: 98%;" alt="MasterHead">
-</div>
-<br>
-<h1 align="center">Hi 👋, I'm Mahesh Mali</h1>
-<h3 align="center">A passionate Full Stack Developer from Pune, India</h3>
-<hr>
+# Mahesh Mali
 
-<center><img alt="Coding" align="right" width= 40%  src="./animations/programmer.gif" ></center>
+<p><em>Building intelligent, observable, and scalable systems — one layer at a time.</em></p>
 
-- 💬 Ask me about : **Data structures and Algorithms,TypeScript, Node.js and NestJS**
-
-- 📫 How to reach me : **mahimali15082001@gmail.com**
-
-- 📄 Know about my experiences : [Resume Link](https://drive.google.com/file/d/1cfMSD7vdNWF5oHSn8axirNMuMbW7dC6Y/view?usp=sharing)
-
-- 👯 I’m looking to collaborate on Open source MEAN Projects.
-
-- ⚡ Fun fact : **It’s not a bug — it’s an undocumented feature.**
-  <br>
-  <hr>
-  <h2> My GitHub Stats</h2>
-  <table align="center" style="width: 100%;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Maheshmali1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Maheshmali1&theme=algolia&hide_border=true" />
-      </td>                           
-    </tr>
-  </table>
-  <hr>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheshmali1&theme=react-dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  <hr>
-  <table align="center" >
-    <tr >
-      <td align="center">
-    <img src="https://stats.quine.sh/Maheshmali1/github?theme=dark" style="width: 60%;" />
-  </td>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmali1&show_icons=true&locale=en&layout=compact&theme=algolia" alt="maheshmali1's Top Languages" />
-  </td>
-
-    </tr>
-  </table>
-
-<hr>
-<h2 align="center"> Connect with me </h2>
-<br>
-<table style="width: 100%;" align="center">
-    <tr align="center">
-    <td align="center">
-<a style="display: inline-block; margin: 3%;" href="https://twitter.com/Mahesh_Mali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahesh_Mali2" height="30" width="40" /></a>
-<a style="display: inline-block; margin: 3%;"  href="https://www.linkedin.com/in/mahesh-mali-bbbba9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-mali-bbbba9212/" height="30" width="40" /></a><a style="display: inline-block; margin: 3%;"  href="https://auth.geeksforgeeks.org/user/msquare1508" target="blank"><img align="center" src="./images/geeksforgeeks-svgrepo-com.svg" alt="msquare1508" height="30" width="40" /></a><a style="display: inline-block; margin: 3%;"  href="https://leetcode.com/marcellus_MM/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marcellus_MM/" height="30" width="40" /></a>
-<a style="display: inline-block; margin: 3%;"  href="https://www.hackerrank.com/mahimali15082001?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 3%;"  href="https://www.hackerearth.com/@mahimali15082001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mahimali15082001" height="30" width="40" /></a><a style="display: inline-block; margin: 3%;"  href="discordapp.com/users/Mahesh_Mali#2527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahesh_Mali#2527" height="30" width="40" /></a>
-</td>
-    </tr>
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h2>SDE-2 · Multi-Agent AI • MEAN • Observability</h2>
+      <p>Senior software engineer building backend & distributed systems for autonomous operations</p>
+      <p>
+        <img src="https://img.shields.io/badge/Multi--Agent_Systems-4cc2ff?style=flat&logoColor=white" alt="Multi-Agent Systems"/>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Microservices-7cd9a5?style=flat&logoColor=white" alt="Microservices"/>
+        <img src="https://img.shields.io/badge/Observability-4cc2ff?style=flat&logoColor=white" alt="Observability"/>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Real--time_Systems-7cd9a5?style=flat&logoColor=white" alt="Real-time Systems"/>
+      </p>
+      <p>
+        <a href="https://drive.google.com/file/d/1nnNq_Cz-xeXjfwgcmWUMhJ5RFPL_oQqw/view?usp=drive_link">
+          <img src="https://img.shields.io/badge/Resume-4cc2ff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+        </a>&nbsp;
+        <a href="https://in.linkedin.com/in/mahesh-mali-ai-sde">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>&nbsp;
+        <a href="https://twitter.com/Mahesh_Mali2">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        </a>
+      </p>
+    </td>
+    <td align="center" width="40%">
+      <img src="./animations/programmer.gif" alt="Avatar" width="250"/>
+    </td>
+  </tr>
 </table>
-<br>
-<hr>
-
-<h2 align="center"> Skills </h2>
-<p align="center" style="width: 100%;">
-  <table style="width: 100%;" align="center">
-    <tr align="center">
-      <td align="center"><h3>Programming Languages</h3>
-      <p> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 2%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a style="display: inline-block; margin: 2%;" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a style="display: inline-block; margin: 2%;" href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="python" width="80" height="40"/> </a> </p><a style="display: inline-block; margin: 2%;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.php.net" target="_blank" rel="noreferrer"> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-      </td>
-      <td align="center">
-        <h3>Front-End Development</h3>
-  <p align="left">  <a style="display: inline-block; margin: 2%;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;"href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="react" width="40" height="40"/> </p>
-      </td>
-      <td align="center">
-        <h3>Back-End Development</h3></a><a style="display: inline-block; margin: 2%;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="80" height="40"/> </a><a style="display: inline-block; margin: 2%;" href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original-wordmark.svg" alt="swagger UI" width="80" height="40"/> </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>Databases: </h3>
-  <p><a style="display: inline-block; margin: 2%;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a  style="display: inline-block; margin: 2%;" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a  style="display: inline-block; margin: 2%;" href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a></p>
-      </td>
-      <td align="center">
-        <h3>Software</h3>
-  <p> <a style="display: inline-block; margin: 3%;" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./images/vsCode.png" alt="VScode" width="40" height="40"/> </a> <a style="display: inline-block; margin: 2%;" href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./images/postman-icon.svg" alt="postman" width="40" height="40"/> </a><a style="display: inline-block; margin: 2%;"href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
-      </td>
-      <td align="center">
-        <h3>Others:</h3>
-  <p > <a style="display: inline-block; margin: 2%;" href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a style="display: inline-block; margin: 2%;" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
-      </td>
-    </tr>
-   </table>
-</p>
 
 <hr>
-<!-- GitHub Profile Trophy -->
-<h2 align="center">GitHub Profile Trophies</h2>
-<br>
+
+## 👨‍💻 About
+
+SDE-2 focused on multi-agent AI, observability, and low-latency microservices. Designing and hardening systems for enterprise drone ops.
+
+**Highlights:** Multi-agent Ops • Speaker @ Commercial UAV Expo • 500+ DSA solved • SSoC Open Source
+
+<table>
+  <tr>
+    <td>
+      <strong>Current Focus</strong>
+      <ul>
+        <li>Multi-agent operational intelligence platform</li>
+        <li>Agentic QA automation (−80% test time)</li>
+        <li>Low-latency schedulers & streaming (RabbitMQ/EMQX)</li>
+        <li>LangChain / LangGraph integrations for operational intelligence</li>
+      </ul>
+    </td>
+    <td>
+      <strong>What I ship</strong>
+      <ul>
+        <li>Reliable platform layers and agentic workflows</li>
+        <li>AI-native tooling that reduces manual ops</li>
+        <li>Observability-first microservices</li>
+        <li>Cost-aware, scalable backend services</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=typescript" width="26" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=javascript" width="26" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go" width="26" alt="Go"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python" width="26" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="26" alt="C++"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=angular" width="26" alt="Angular"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" width="26" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html" width="26" alt="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" width="26" alt="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap" width="26" alt="Bootstrap"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nestjs" width="26" alt="NestJS"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" width="26" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="26" alt="Express"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi" width="26" alt="FastAPI"/>
+
+**Datastores**
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="26" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" width="26" alt="PostgreSQL"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis" width="26" alt="Redis"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="26" alt="MySQL"/>
+
+**AI & Agentic**
+
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="24" alt="LangChain"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" width="24" alt="LlamaIndex" /> &nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/weaviate-logo.png" width="30" alt="Weaviate"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/openai-logo.png" width="30" alt="OpenAI"/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="24" alt="LangGraph"/>
+
+**DevOps & Infra**
+
+<img src="https://skillicons.dev/icons?i=docker" width="26" alt="Docker"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" width="26" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" width="26" alt="Nginx"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=aws" width="26" alt="AWS"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="24" alt="RabbitMQ"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/dynatrace-logo.png" width="24" alt="Dynatrace"/>
+
+<hr>
+
+## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Maheshmali1&show_icons=true&hide_border=false&border_radius=10&bg_color=0c0f14&title_color=4cc2ff&icon_color=7cd9a5&text_color=d9dfe8&border_color=1e2533&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshmali1&layout=compact&hide_border=false&border_radius=10&bg_color=0c0f14&title_color=4cc2ff&text_color=d9dfe8&border_color=1e2533&langs_count=8" alt="Top languages"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheshmali1&theme=algolia&column=4&margin-w=15&margin-h=15" alt="maheshmali1's Trophies" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Maheshmali1&hide_border=false&border_radius=10&background=0c0f14&ring=4cc2ff&fire=7cd9a5&currStreakLabel=4cc2ff&currStreakNum=4cc2ff&sideNums=d9dfe8&sideLabels=97a3b5&dates=97a3b5&border=1e2533" alt="Streak stats"/>
 </p>
 
 <hr>
- <h2 align="center"> Thank you for visiting my profile </h2>     
- <br>                                                                                                                 
- <table align="center">
-        <tr>
-             <td><h3> Visitors: </h3></td>
-             <td><img src="https://profile-counter.glitch.me/Maheshmali1/count.svg"></td>                                                                     
-        </tr>                                                                                             
- </table>
-<hr>
+
+## 🚀 Featured Projects
+
+**🧠 [Code Connoisseur](https://github.com/Maheshmali1/code-connoisseur)** — AI-powered agentic code review
+
+- 6+ analysis layers
+- semantic retrieval + multi-agent orchestration; CLI-first.
+- Stack: Python, LangChain, OpenAI, FastAPI.
+
+**🛸 Multi-Agent Intelligence (FlytBase)** — Real-time mission analytics
+
+- Multi-agent report generation, live video analytics;
+- alert streaming with vector DB.
+- Stack: LangGraph, Weaviate, FastAPI, Vector DB.
+
+**🧑‍💼 [Employee Management System (Server)](https://github.com/Maheshmali1/Employee_Management_System_APIs)** — RESTful backend with RBAC
+
+- Type-safe modular API (Node.js/Express/TypeScript);
+- Role-based supervisor authorization via middleware; secure access control.
+- Quality & docs: Jest, ESLint, Swagger UI.
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-mali-ai-sde)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mahesh_Mali2)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahimali15082001@gmail.com)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marcellus_MM/)&nbsp;&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/msquare1508)&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-4cc2ff?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nnNq_Cz-xeXjfwgcmWUMhJ5RFPL_oQqw/view?usp=drive_link)
